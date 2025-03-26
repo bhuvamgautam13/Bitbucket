@@ -1,2 +1,4 @@
-I am bhuvam 
-i am from sirsa
+TITLE - GITHUB
+
+we use git clone command to clone the repositories
+
